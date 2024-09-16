@@ -1,0 +1,10 @@
+Sells Shoes
+
+DB:
+Table products
+    id: primary key
+    name: unique string
+    description: string
+    price: float
+    img: string(url)
+
